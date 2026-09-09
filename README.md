@@ -3,9 +3,7 @@
 
 ### An experienced Javascript developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RibMc95&label=Profile views&color=0e75b6&style=flat" alt="RibMc95" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RibMc95" alt="RibMc95" /></a> </p>
 
 - 🔭 I'm currently working on **A website for selling cookies**
 
